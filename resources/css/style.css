@@ -1,0 +1,19 @@
+img {
+  height: 150px;
+}
+
+.time {
+  color: gray;
+}
+
+.ingredients {
+  list-style: square;
+}
+
+.external-link {
+  color: SeaGreen;
+}
+
+h1, h2, p li {
+  font-family: Helvetica;
+}
